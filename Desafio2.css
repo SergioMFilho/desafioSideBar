@@ -1,17 +1,29 @@
 * {
     margin: 0;
-    box-sizing: border-box;
 }
 
 .aside {
     width: 70px;
     height: 100vh;
     background-color: red;
+    transition : width 1s;
 }
 
 #buttonAction {
     margin: 20px;
     padding: 1px;
-   
-   
+}
+
+#divButton {
+    display: flex; 
+    justify-content: flex-end;
+    
+}
+
+#teste {
+    padding: 1px;
+    position: absolute;
+    margin: 20px;
+    visibility: hidden;
+
 }
