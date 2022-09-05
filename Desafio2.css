@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.aside {
+    width: 70px;
+    height: 100vh;
+    background-color: red;
+}
+
+#buttonAction {
+    margin: 20px;
+    padding: 1px;
+   
+   
+}
